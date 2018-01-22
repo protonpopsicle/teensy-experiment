@@ -41,4 +41,3 @@ void touchCheck()
   }
   Serial.print("\n");
 }
-
